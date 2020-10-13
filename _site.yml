@@ -23,6 +23,6 @@ collections:
       hidden: true
     share: [twitter, linkedin]
     citations: true
-    # subscribe: _subscribe.html
+    subscribe: _subscribe.html
 rss:
   full_content: true

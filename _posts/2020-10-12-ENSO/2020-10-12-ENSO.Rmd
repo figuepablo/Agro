@@ -70,3 +70,12 @@ portada <- "Images/Portada.png"
 sarsasasasa
 
 sarasassasasa
+
+
+```{r}
+
+
+plot(1:10)
+
+```
+
